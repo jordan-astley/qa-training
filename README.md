@@ -1,2 +1,2 @@
 # qa-training
-Git training rep
+Git training repo
